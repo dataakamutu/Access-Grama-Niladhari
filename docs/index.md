@@ -6,3 +6,5 @@ GIMS_EN.accdb
 GIMS_SI.accdb
 
 This database is created for the request of GenoTechies to create simple, lightweight, easy to use and easy to learn solution for Grama Niladhari in Sri Lanka.
+
+[![Sinhala System Docuementation](https://genotechies.github.io/Access-Grama-Niladhari/System_documentation_Sinhala.JPG](https://genotechies.github.io/Access-Grama-Niladhari/system_documentation.htm)
