@@ -22,9 +22,17 @@ In order to install go to github https://github.com/GenoTechies/Access-Grama-Nil
 
 After that, in the drop down you have to select "Download as Zip". Select the prefered location in your Windows operating system and save the Zip File.
 
+[![install_download_zip](https://genotechies.github.io/Access-Grama-Niladhari/install_download_zip.jpg)]
+
 After files got downloaded as indicated below, unzip the zip file. In order to do that click on "Extract All" button after right click on the zip file.in the next window, click Extract again after selecting the desired location to extract.
 
+[![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
+[![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
+
 Finally, Navigate to "Access-Grama-Niladhari-main" folder  and you will see the relevent files as indicated below.
+
+
+[![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.jpg)]
 
 This database has Sinhala and English versions.
 GIMS_EN.accdb
