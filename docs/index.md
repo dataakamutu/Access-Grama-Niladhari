@@ -1,5 +1,6 @@
+# Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
-<p><span style="font-size:20px">ග්&zwj;රාම නිලදාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
+<p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
 
 
 <p><span style="font-size:20px"><strong>සිංහල භාෂාව සඳහා GIMS_SI.accdb තෝරාගන්න. ඉංග්&zwj;රීසි හා දෙමළ සංස්කරණද ඇතුලත් කර ඇත.</strong></span></p>
@@ -11,7 +12,7 @@
 
 
 
-# Access Grama Niladhari - Grama Niladhari Information Management System
+# Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
 Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
 
 # Installation
@@ -22,9 +23,17 @@ In order to install go to github https://github.com/GenoTechies/Access-Grama-Nil
 
 After that, in the drop down you have to select "Download as Zip". Select the prefered location in your Windows operating system and save the Zip File.
 
+[![install_download_zip](https://genotechies.github.io/Access-Grama-Niladhari/install_download_zip.jpg)]
+
 After files got downloaded as indicated below, unzip the zip file. In order to do that click on "Extract All" button after right click on the zip file.in the next window, click Extract again after selecting the desired location to extract.
 
+[![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
+[![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
+
 Finally, Navigate to "Access-Grama-Niladhari-main" folder  and you will see the relevent files as indicated below.
+
+
+[![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.jpg)]
 
 This database has Sinhala and English versions.
 GIMS_EN.accdb
