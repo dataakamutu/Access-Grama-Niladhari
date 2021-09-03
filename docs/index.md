@@ -1,4 +1,4 @@
-# Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය
+# Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
 <p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
 
@@ -12,7 +12,7 @@
 
 
 
-# Access Grama Niladhari - Grama Niladhari Information Management System
+# Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
 Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
 
 # Installation
