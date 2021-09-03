@@ -14,9 +14,10 @@
 # Access Grama Niladhari - Grama Niladhari Information Management System
 Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
 
-#Installation
+# Installation
 
-In order to install download the files using the green button in the Github as indicated below.
+In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari. Then, download the files using the green button in the Github as indicated below.
+
 
 This database has Sinhala and English versions
 GIMS_EN.accdb
