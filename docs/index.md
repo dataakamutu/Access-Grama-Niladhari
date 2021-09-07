@@ -17,11 +17,11 @@ Simple easy to use MS Access database for recording residents, family units and 
 
 # Installation
 
-In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari. Then, download the files using the green "Code" button in the Github as indicated below.
+In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari. Then, click on the green "Code" button in the Github as indicated below.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
-After that, in the drop down you have to select "Download as Zip". Select the prefered location in your Windows operating system and save the Zip File.
+After that, in the drop down you have to select "Download as Zip".Then, save the Zip File after selecting the prefered location in your Windows operating system.
 
 [![install_download_zip](https://genotechies.github.io/Access-Grama-Niladhari/install_download_zip.jpg)]
 
