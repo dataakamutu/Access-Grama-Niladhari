@@ -33,7 +33,7 @@ After files got downloaded as indicated below, unzip the zip file. In order to d
 Finally, Navigate to "Access-Grama-Niladhari-main" folder  and you will see the relevent files as indicated below.
 
 
-[![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.jpg)]
+[![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.JPG)]
 
 This database has Sinhala and English versions.
 GIMS_EN.accdb
