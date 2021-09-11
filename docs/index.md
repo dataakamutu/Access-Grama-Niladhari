@@ -1,16 +1,16 @@
 # Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
-<p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
+<p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies" target="_blank">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
 
 
 <p><span style="font-size:20px">මෙම ඇක්සස් පදනම් දත්ත ගබඩාව ඉතා සරලව ග්&zwj;රාම නිලධාරී මහතුන්ගේ මූලික තොරතුරු කළමනාකරණය සඳහා නිර්මාණය කර ඇත.</span></p>
 
-<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
+<p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
-මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
+මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
@@ -64,8 +64,8 @@ Select the prefered version and open it using the MS Office Access application.
 
 This database is created by GenoTechies to create simple, lightweight, easy to use and easy to learn solution for Grama Niladhari in Sri Lanka.
 
-<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 
 
 
