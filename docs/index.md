@@ -3,12 +3,34 @@
 <p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
 
 
-<p><span style="font-size:20px"><strong>සිංහල භාෂාව සඳහා GIMS_SI.accdb තෝරාගන්න. ඉංග්&zwj;රීසි හා දෙමළ සංස්කරණද ඇතුලත් කර ඇත.</strong></span></p>
-
 <p><span style="font-size:20px">මෙම ඇක්සස් පදනම් දත්ත ගබඩාව ඉතා සරලව ග්&zwj;රාම නිලධාරී මහතුන්ගේ මූලික තොරතුරු කළමනාකරණය සඳහා නිර්මාණය කර ඇත.</span></p>
 
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+
+# Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
+
+මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
+
+[![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
+
+එය එබීමෙන් පසු පහත අතුරු මුහුනතේ දක්වා ඇති පරදි download zip යන්න එබීම තුලින් ඔබගේ පරිඝනකය වෙත බා ගත කරගත හැක. ඔබගෙ පරිඝනකයේ බාගත කිරීම් ( download files ) රදවා තබා ගැනීමට යොදා ගන්න ෆොල්ඩරය තුල ( download folder ) තුල ඔබ බා ගත කරගත් "Access-Grama-Niladhari-main" zip ෆයිල් එක සොයා ගත හැක.
+
+[![install_download_zip](https://genotechies.github.io/Access-Grama-Niladhari/install_download_zip.jpg)]
+
+පසුව ඔබ බා ගත කරගත් "Access-Grama-Niladhari-main" zip ෆයිල් එක දිස් වන්නෙ පහත අයුරිනි.එය රයිට් ක්ලික් කර පසු එන පහත අතුරු මුහුනතේ පෙන්වා දී ඇති ආකරයේ menu එක තුල ඇති Extract All යන්න ක්ලික් කිරීමෙන් පසු එය දිගහැරගත යුත්තෙ ඔබේ පරිඝනකයේ කුමන ස්ථානයටද යන්න තේරීම සදහා පහත දෙවනියට දක්වා ඇති ආකාරයේ අතුරුමුහුනතක් දිස්වේ.
+
+[![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
+[![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
+
+අවසාන වශයෙන් ඔබ දිගහැර ගත් ෆෝල්ඩර් එක තුලට පිවිසීම තුලින් පහත දක්වා ඇති ආකරයේ ෆයිල් කිහිපයක් දිස් වේ.
+
+
+[![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.JPG)]
+
+මෙම තොරතුරු පද්ධතිය සිංහල (GIMS_SI.accdb) ,ඉංග්‍රීසි (GIMS_EN.accdb) යන භාෂා දෙකෙන්ම ලබා ගත හැක.
+
+ඔබට අවශ්‍ය භාෂාවට අයත් ෆයිල් එක තෝරාගත් පසු එය විවෘත කිරීම සදහා Microsoft Office පැකේජය තුල ඇති  Access ඇප්ලිකේශන් එක භාවිතා කරන්න..
 
 
 
