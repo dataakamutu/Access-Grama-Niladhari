@@ -32,7 +32,7 @@
 
 ඔබට අවශ්‍ය භාෂාවට අයත් ෆයිල් එක තෝරාගත් පසු එය විවෘත කිරීම සදහා Microsoft Office පැකේජය තුල ඇති  Access ඇප්ලිකේශන් එක භාවිතා කරන්න..
 
-
+தமிழ் பதிப்பு விரைவில் வெளிவரும்
 
 # Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
 Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
