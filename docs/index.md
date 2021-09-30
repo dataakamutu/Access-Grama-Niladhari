@@ -10,6 +10,8 @@
 
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
+පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක 
+
 මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
@@ -38,6 +40,8 @@
 Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
 
 # Installation
+
+Following steps below allows you to refer user documentation without Internet.
 
 In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari. Then, click on the green "Code" button in the Github as indicated below.
 
