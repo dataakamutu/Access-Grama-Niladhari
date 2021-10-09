@@ -1,9 +1,24 @@
 # Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
-<p><span style="font-size:20px">ග්&zwj;රාම නිලධාරී මහතුන් වෙනුවෙන් ම නිර්මාණය කල මෙම තොරතුරු පද්ධතිය තුලින් එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="https://github.com/GenoTechies" target="_blank">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</span></p>
+<p>Ver - 1</p>
+
+<p>මෙම තොරතුරු කලමණාකරන පද්ධතිය තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට තම ප්&zwj;රදේශයේ&nbsp;</p>
+
+<ul style="margin-left:40px">
+	<li>පදිංචිකරුවන්&nbsp;</li>
+	<li>එම පදිංචිකරුවන් අයත් පවුල් ඒකක පිළිබඳ තොරතුරු&nbsp;</li>
+	<li>තම ප්&zwj;රදේශයේ ක්&zwj;රියාත්මක කරන වැඩසටහන්&nbsp;</li>
+	<li>එම වැඩසටහන් වලට සම්බන්ධ කරගන්නා පදිංචිකරුවන්&nbsp;</li>
+</ul>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;පිළිබඳ දත්ත පහසුවෙන් කළමනාකරණය කිරීම සදහා මෙම තොරතුරු කළමනාකරණ පද්ධතිය නිර්මාණය කර ඇත.&nbsp;</p>
+
+<p>මෙය Microsoft Access යොදාගෙන නිර්මාණය කල දත්ත ගබඩාවකි.</p>
 
 
-<p><span style="font-size:20px">මෙම ඇක්සස් පදනම් දත්ත ගබඩාව ඉතා සරලව ග්&zwj;රාම නිලධාරී මහතුන්ගේ මූලික තොරතුරු කළමනාකරණය සඳහා නිර්මාණය කර ඇත.</span></p>
+
+<p>මේ තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</p>
+
 
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
