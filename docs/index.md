@@ -56,8 +56,8 @@
 		
 <p>එයට ගිය විට එය දිස්වන්නෙ පහත ආකරයෙනි<p>	
 	
-![report 1](https://user-images.githubusercontent.com/89570912/136699175-8152c490-9c8d-4d2a-b0c3-8bfb411d7176.PNG)
-![report 2](https://user-images.githubusercontent.com/89570912/136699191-9748b5be-11a8-435e-afe7-5e391be3d3a4.PNG)
+[![report 1](https://user-images.githubusercontent.com/89570912/136699175-8152c490-9c8d-4d2a-b0c3-8bfb411d7176.PNG)]
+[![report 2](https://user-images.githubusercontent.com/89570912/136699191-9748b5be-11a8-435e-afe7-5e391be3d3a4.PNG)]
 
 
 
@@ -74,7 +74,7 @@
 </ul>	
 එවිට පහත අතුරුමුහුනත ලැබේ
 එවිට ඔබේ දැක්වූ අදහස සාර්ථකව පල වී ඇති බව සනාථ කර ගත හැක
-![Reports 3](https://user-images.githubusercontent.com/89570912/136699309-ca9128b0-43cf-403c-a9d8-2f7cbbd4e762.PNG)
+[![Reports 3](https://user-images.githubusercontent.com/89570912/136699309-ca9128b0-43cf-403c-a9d8-2f7cbbd4e762.PNG)]
 
 
 	
