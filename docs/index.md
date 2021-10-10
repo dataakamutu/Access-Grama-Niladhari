@@ -1,8 +1,11 @@
 # Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
 <p>Ver - 1</p>
+<p>දැනට පරීක්ශා කර ඇති මෙහෙයුම් පද්ධතිය - Windows 10 </p>
+</p>දැනට පරීක්ශා කර ඇති Microsoft Office Package - Microsoft Office 2013 </p>
 
-<p>මෙම තොරතුරු කලමණාකරන පද්ධතිය තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට තම ප්&zwj;රදේශයේ&nbsp;</p>
+
+<p>මෙම තොරතුරු කලමණාකරන පද්ධතිය තුලින් ග්&zwj;රාම නිලධාරිවරුන් හට තම ප්&zwj;රදේශයේ&nbsp;</p>
 
 <ul style="margin-left:40px">
 	<li>පදිංචිකරුවන්&nbsp;</li>
@@ -17,7 +20,7 @@
 
 
 
-<p>මේ තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට එදිනෙදා රාජකාරි අවස්තාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</p>
+<p>මේ තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට එදිනෙදා රාජකාරි අවස්ථාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</p>
 
 
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
@@ -49,10 +52,56 @@
 
 ඔබට අවශ්‍ය භාෂාවට අයත් ෆයිල් එක තෝරාගත් පසු එය විවෘත කිරීම සදහා Microsoft Office පැකේජය තුල ඇති  Access ඇප්ලිකේශන් එක භාවිතා කරන්න..
 
+<p>මෙම තොරතුරු පද්ධතිය සම්බන්ධයෙන් ඔබගෙ අදහස් , යෝජනා , චෝදනා පිලිබදව අදහස් පල කිරීමට මෙම ලින්ක් එක තුලින් ගොස් සිදුකල හැක.<p>
+	
+		
+<p>එයට ගිය විට එය දිස්වන්නෙ පහත ආකරයෙනි<p>	
+	
+![report 1](https://user-images.githubusercontent.com/89570912/136699175-8152c490-9c8d-4d2a-b0c3-8bfb411d7176.PNG)
+![report 2](https://user-images.githubusercontent.com/89570912/136699191-9748b5be-11a8-435e-afe7-5e391be3d3a4.PNG)
+
+
+
+<ul style="margin-left:40px">
+	<li>1. ඔබගෙ නම</li>
+	<li>2. විද්‍යුත් තැපෑල</li>
+	<li>3. මෙහි පෙන්වා ඇති කුඩා කොටුව ටික් කිරීම තුලින් ඔබගෙ විද්‍යුත් තැපෑල ඔබ දැක්වු අදහස තුල දක්නට ලැබේ <li>
+	<li>4. වැඩසටහන් වලට සම්බන්ධ කරගන්නා පදිංචිකරුවන්&nbsp;</li>
+	<li>5. මෙහි පලමුවෙන්ම OS යනුවෙන් ටයිප් කර එයට ඔබ භාවිතා කල මෙහෙයුම් පද්ධතියේ නම සදහන් කල යුතුය. නිදසුනක් ලෙස Windows 10
+		පසුව ඔබේ පරිඝනකයේ මෙය භාවිතා කිරීමට යොදා ගත් office package ය අදාල වර්ශය  සදහන් කල යුතුය. නිදසුනක් ලෙස 2013
+		පසුව ගැටලුව හෝ යෝජනාව පිලිබද විස්තරය
+	<li>6. මෙම කොටුව තුල දක්වා ඇති අකුරු එම ආකාරයටම Enter image text යන කොටුව තුල ටයිප් කරන්න. මෙහි අකුරු simple , capital ඒ ආකරයෙන්ම ටයිප් විය යුතුයi>
+	<li>7. අවසානයේ Submit කරන්න <li>
+</ul>	
+එවිට පහත අතුරුමුහුනත ලැබේ
+එවිට ඔබේ දැක්වූ අදහස සාර්ථකව පල වී ඇති බව සනාථ කර ගත හැක
+![Reports 3](https://user-images.githubusercontent.com/89570912/136699309-ca9128b0-43cf-403c-a9d8-2f7cbbd4e762.PNG)
+
+
+	
 தமிழ் பதிப்பு விரைவில் வெளிவரும்
 
 # Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
-Simple easy to use MS Access database for recording residents, family units and campaign information of Grama Niladhari in Sri Lanka
+
+<p>Ver - 1</p>
+<p>Tested Operating systems - Windows 10 </p>
+</p>Tested Office Packages - Microsoft Office 2013 </p>
+
+
+<p>This information management system is designed to easily manage data about ,</p>
+
+<ul style="margin-left:40px">
+	<li>Residents</li>
+	<li>Family Units Of Residents</li>
+	<li>Programs that are implemented by their area</li>
+	<li>Residents who get involved in those programs</li>
+</ul>
+
+<p>This application based on Microsoft acccess.</p>
+
+
+
+<p>This database is created by <a href="github.com/GenoTechies">GenoTechies</a> for manage basic information things in Grama Niladhari job.</p>
 
 # Installation
 
