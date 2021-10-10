@@ -1,10 +1,6 @@
 # Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
 <p>Ver - 1</p>
-<p>දැනට පරීක්ශා කර ඇති මෙහෙයුම් පද්ධතිය - Windows 10 </p>
-</p>දැනට පරීක්ශා කර ඇති Microsoft Office Package - Microsoft Office 2013 </p>
-
-
 <p>මෙම තොරතුරු කලමණාකරන පද්ධතිය තුලින් ග්&zwj;රාම නිලධාරිවරුන් හට තම ප්&zwj;රදේශයේ&nbsp;</p>
 
 <ul style="margin-left:40px">
@@ -14,11 +10,12 @@
 	<li>එම වැඩසටහන් වලට සම්බන්ධ කරගන්නා පදිංචිකරුවන්&nbsp;</li>
 </ul>
 
+
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;පිළිබඳ දත්ත පහසුවෙන් කළමනාකරණය කිරීම සදහා මෙම තොරතුරු කළමනාකරණ පද්ධතිය නිර්මාණය කර ඇත.&nbsp;</p>
 
 <p>මෙය Microsoft Access යොදාගෙන නිර්මාණය කල දත්ත ගබඩාවකි.</p>
-
-
+<p>දැනට පරීක්ශා කර ඇති මෙහෙයුම් පද්ධතිය - Windows 10 </p>
+<p>දැනට පරීක්ශා කර ඇති Microsoft Office Package - Microsoft Office 2013 </p>
 
 <p>මේ තුලින් ග්&zwj;රාම නිලධාරි වරුන් හට එදිනෙදා රාජකාරි අවස්ථාවන්හිදී සිදුවන තොරතුරු සෙවීම් ඇතුලු මූලික තොරතුරු කලමණාකරන කටියුතු පහසුවෙන් කරගැනීමට අවශ්&zwj;ය පදනම සැපයීම සදහා <a href="github.com/GenoTechies">GenoTechies</a> විසින් දරන සාමුහික ප්&zwj;රයත්නයකි.</p>
 
