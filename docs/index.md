@@ -25,9 +25,7 @@
 
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
-පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> End User License Agreement පරිශීලක බලපත්‍ර ගිවිසුම </a> 
-
-
+පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  පරිශීලක බලපත්‍ර ගිවිසුම </a> 
 
 
 මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
@@ -107,7 +105,7 @@
 
 # Installation
 
-Following steps below allows you to refer user documentation without Internet.
+Following steps below allows you to refer user documentation without Internet.<a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> End User License Agreement </a> 
 
 In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari. Then, click on the green "Code" button in the Github as indicated below.
 
