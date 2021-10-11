@@ -133,7 +133,8 @@ This database is created by GenoTechies to create simple, lightweight, easy to u
 
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<a href="https://github.com/GenoTechies" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> GenoTechies සාමූහික ප්‍රයත්නයකි. </a>
+<a href="https://github.com/GenoTechies" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> GenoTechies සාමූහික ප්‍රයත්නයකි. </a> <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> LICENSE බලපත්රය </a> 
+
 
 
 
