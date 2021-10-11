@@ -25,7 +25,10 @@
 
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
-පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක 
+පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> End User License Agreement පරිශීලක බලපත්‍ර ගිවිසුම </a> 
+
+
+
 
 මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි code බොත්තම ඔබන්න.
 
@@ -133,7 +136,7 @@ This database is created by GenoTechies to create simple, lightweight, easy to u
 
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<a href="https://github.com/GenoTechies" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> GenoTechies සාමූහික ප්‍රයත්නයකි. </a> <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> LICENSE බලපත්රය </a> 
+<a href="https://github.com/GenoTechies" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> GenoTechies සාමූහික ප්‍රයත්නයකි. </a> <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> End User License Agreement පරිශීලක බලපත්‍ර ගිවිසුම </a> 
 
 
 
