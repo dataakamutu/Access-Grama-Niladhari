@@ -53,7 +53,7 @@
 <p><u><span style="font-size:35px">ප්&zwj;රශ්න , අදහස් , යෝජනා&nbsp;පලකිරීම</span></u></p>
 
 <p>මෙම තොරතුරු පද්ධතිය සම්බන්ධයෙන් ඔබගෙ අදහස් , යෝජනා , චෝදනා පිලිබදව අදහස් පල කිරීමට මෙම ලින්ක් එක තුලින් ගොස් සිදුකල හැක.</p>
-	
+https://gitreports.com/issue/GenoTechiesGithub/Access-Grama-Niladhari
 		
 <p>එයට ගිය විට එය දිස්වන්නෙ පහත ආකරයෙනි</p>	
 	
@@ -78,8 +78,7 @@
 [![Reports 3](https://user-images.githubusercontent.com/89570912/136699309-ca9128b0-43cf-403c-a9d8-2f7cbbd4e762.PNG)]
 
 
-
-
+https://github.com/GenoTechies/Access-Grama-Niladhari/issues
 	
 தமிழ் பதிப்பு விரைவில் வெளிவரும்
 
