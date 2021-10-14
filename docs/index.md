@@ -46,7 +46,7 @@
 
 [![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.JPG)]
 
-මෙම තොරතුරු පද්ධතිය සිංහල (GIMS_SI.accdb) ,ඉංග්‍රීසි (GIMS_EN.accdb) යන භාෂා දෙකෙන්ම ලබා ගත හැක.
+මෙම තොරතුරු පද්ධතිය සිංහල (GIMS_SI.accdb) ,දමිළ (GIMS_TA.accdb) යන භාෂා දෙකෙන්ම ලබා ගත හැක වන අයුරින් වෙනස් වනු ඇත.
 
 ඔබට අවශ්‍ය භාෂාවට අයත් ෆයිල් එක තෝරාගත් පසු එය විවෘත කිරීම සදහා MS Microsoft Office පැකේජය තුල ඇති  Access ඇප්ලිකේශන් එක භාවිතා කරන්න..
 
@@ -126,8 +126,8 @@ Finally, Navigate to "Access-Grama-Niladhari-main" folder  and you will see the 
 
 [![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.JPG)]
 
-This database has Sinhala and English versions.
-GIMS_EN.accdb
+This database will have Sinhala and Tamil versions.
+GIMS_TA.accdb
 GIMS_SI.accdb
 Select the prefered version and open it using the MS Office Access application.
 
