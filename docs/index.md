@@ -23,6 +23,8 @@
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 
+# Access கிராம உத்தியோகஸ்தர் – கிராம உத்தியோஸ்தர் அடிப்படைத் தகவல்களை முகாமைச்செய்யும் முறைமை - முதலாம் அலகு
+
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
 පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  පරිශීලක බලපත්‍ර ගිවිසුම </a> 
