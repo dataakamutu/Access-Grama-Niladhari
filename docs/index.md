@@ -23,7 +23,6 @@
 <p>පරිශීලක සහය (User Documentation)සඳහා  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 <p>පද්ධති සහය (System Documentation) සඳහා  <a href="./system_documentation.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>පිවිසීම </a></p>
 
-# Access கிராம உத்தியோகஸ்தர் – கிராம உத்தியோஸ்தர் அடிப்படைத் தகவல்களை முகாமைச்செய்யும் முறைமை - முதலாம் அலகு
 
 # Installation (පරිඝණකය තුල ස්ථාපනය කිරීම)
 
@@ -80,9 +79,7 @@
 
  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/issues" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  අදහස් , යෝජනා වල පසු විපරම </a> 
 
-
-	
-தமிழ் பதிப்பு விரைவில் வெளிவரும்
+# Access கிராம உத்தியோகஸ்தர் – கிராம உத்தியோஸ்தர் அடிப்படைத் தகவல்களை முகாமைச்செய்யும் முறைமை - முதலாம் அலகு
 
 # Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
 
