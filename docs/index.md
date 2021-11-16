@@ -100,8 +100,8 @@
 <p>මஇதனூடாக கிராம உத்தியோகஸ்தர்களுக்கு நாளாந்த கடமைகளின் போதான தகவல்களைத் தேடுதல் உள்ளடங்களான அடிப்படைத்தகவல்கள் முகாமைத்துவ நடவடிக்கைககளை இலகுவாக மேற்கொள்வதற்கு தேவையான அடிப்படைகளை வழங்குவதற்காக  <a href="https://github.com/GenoTechies">GenoTechies</a> இனால் மேற்கொள்ளப்படும் கூட்டு முயற்சியாகும்.</p>
 
 
-<p>பயனர் உதவிக்காக (User Documentation)  <a href="./user_documentation.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
-<p>முறைமை உதவிக்காக(System Documentation) <a href="./system_documentation.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
+<p>பயனர் உதவிக்காக (User Documentation)  <a href="./user_documentation_tamil.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
+<p>முறைமை உதவிக்காக(System Documentation) <a href="./system_documentation_tamil.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
 
 # Installation (கணணியினுள் நிறுவுதல்)
 
