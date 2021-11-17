@@ -101,7 +101,7 @@
 
 
 <p>பயனர் உதவிக்காக (User Documentation)  <a href="./user_documentation_tamil.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
-<p>முறைமை உதவிக்காக(System Documentation) <a href="./system_documentation_tamil.htm"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
+<p>முறைமை உதவிக்காக(System Documentation) <a href="./system_documentation_tamil.html"><u><span style="font-size:20px" target="_blank" ><strong></strong></span></u>அணுகவும் </a></p>
 
 # Installation (கணணியினுள் நிறுவுதல்)
 
