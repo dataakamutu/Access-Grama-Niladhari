@@ -108,7 +108,7 @@
 பின்வருமாறாக நிறுவுவதன் மூலம் உங்களுக்கு பயனர் உதவியினை இணையமின்றி வாசிக்க முடியும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  பயனர் அனுமதி ஒப்பந்தம் </a> 
 
 
-இதனை தங்களது கணணியினுள் நிறுவுவதற்காக முதலாவதாக நீங்கள் செய்ய வேண்டியது Github இணையத்தளத்தினூடாக இதனுடன் இணைக்கப்பட்டுள்ள லிங்க் இனை பயன்படுத்தி இதனை பதிவிவிறக்கம் செய்தலும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/V1.0" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>அணுகவும் </a>.   කරන්න.
+இதனை தங்களது கணணியினுள் நிறுவுவதற்காக முதலாவதாக நீங்கள் செய்ய வேண்டியது Github இணையத்தளத்தினூடாக இதனுடன் இணைக்கப்பட்டுள்ள லிங்க் இனை பயன்படுத்தி இதனை பதிவிவிறக்கம் செய்தலும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/V1.0" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>அணுகவும் </a>.  
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
