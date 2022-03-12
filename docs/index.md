@@ -29,7 +29,7 @@
 පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  පරිශීලක බලපත්‍ර ගිවිසුම </a> 
 
 
-මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/V1.2" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි Source code (zip) click කරන්න.
+මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/v1.2" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි Source code (zip) click කරන්න.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
@@ -108,7 +108,7 @@
 பின்வருமாறாக நிறுவுவதன் மூலம் உங்களுக்கு பயனர் உதவியினை இணையமின்றி வாசிக்க முடியும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  பயனர் அனுமதி ஒப்பந்தம் </a> 
 
 
-இதனை தங்களது கணணியினுள் நிறுவுவதற்காக முதலாவதாக நீங்கள் செய்ய வேண்டியது Github இணையத்தளத்தினூடாக இதனுடன் இணைக்கப்பட்டுள்ள லிங்க் இனை பயன்படுத்தி இதனை பதிவிவிறக்கம் செய்தலும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/V1.2" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>அணுகவும் </a>.  
+இதனை தங்களது கணணியினுள் நிறுவுவதற்காக முதலாவதாக நீங்கள் செய்ய வேண்டியது Github இணையத்தளத்தினூடாக இதனுடன் இணைக்கப்பட்டுள்ள லிங்க் இனை பயன்படுத்தி இதனை பதிவிவிறக்கம் செய்தலும்  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/v1.2" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>அணுகவும் </a>.  
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
@@ -184,7 +184,7 @@
 
 Following steps below allows you to refer user documentation without Internet.<a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u> End User License Agreement </a> 
 
-In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/V1.2. Then, click on the green "source" button in the Github as indicated below.
+In order to install go to github https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/v1.2, Then, click on the green "source" button in the Github as indicated below.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
