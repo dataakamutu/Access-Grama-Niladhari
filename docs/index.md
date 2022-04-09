@@ -33,10 +33,10 @@
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
-ඔබගෙ පරිඝනකයේ බාගත කිරීම් ( download files ) රදවා තබා ගැනීමට යොදා ගන්න ෆොල්ඩරය තුල ( download folder ) තුල ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.0" zip ෆයිල් එක සොයා ගත හැක.
+ඔබගෙ පරිඝනකයේ බාගත කිරීම් ( download files ) රදවා තබා ගැනීමට යොදා ගන්න ෆොල්ඩරය තුල ( download folder ) තුල ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.2" zip ෆයිල් එක සොයා ගත හැක.
 
 
-පසුව ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.0.zip" zip ෆයිල් එක දිස් වන්නෙ පහත අයුරිනි.එය රයිට් ක්ලික් කර පසු එන පහත අතුරු මුහුනතේ පෙන්වා දී ඇති ආකරයේ menu එක තුල ඇති Extract All යන්න ක්ලික් කිරීමෙන් පසු එය දිගහැරගත යුත්තෙ ඔබේ පරිඝනකයේ කුමන ස්ථානයටද යන්න තේරීම සදහා පහත දෙවනියට දක්වා ඇති ආකාරයේ අතුරුමුහුනතක් දිස්වේ.
+පසුව ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.2.zip" zip ෆයිල් එක දිස් වන්නෙ පහත අයුරිනි.එය රයිට් ක්ලික් කර පසු එන පහත අතුරු මුහුනතේ පෙන්වා දී ඇති ආකරයේ menu එක තුල ඇති Extract All යන්න ක්ලික් කිරීමෙන් පසු එය දිගහැරගත යුත්තෙ ඔබේ පරිඝනකයේ කුමන ස්ථානයටද යන්න තේරීම සදහා පහත දෙවනියට දක්වා ඇති ආකාරයේ අතුරුමුහුනතක් දිස්වේ.
 
 [![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
 [![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
