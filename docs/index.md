@@ -1,6 +1,6 @@
 # Access ග්&zwj;රාම නිලධාරී - ග්&zwj;රාම නිලධාරී මූලික තොරතුරු කළමනාකරණ පද්ධතිය - පළමු වෙළුම 
 
-<p>Ver - 1</p>
+<p>Ver - 2.0</p>
 <p>මෙම තොරතුරු කලමණාකරන පද්ධතිය තුලින් ග්&zwj;රාම නිලධාරිවරුන් හට තම ප්&zwj;රදේශයේ&nbsp;</p>
 
 <ul style="margin-left:40px">
@@ -33,10 +33,10 @@
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
-ඔබගෙ පරිඝනකයේ බාගත කිරීම් ( download files ) රදවා තබා ගැනීමට යොදා ගන්න ෆොල්ඩරය තුල ( download folder ) තුල ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.2" zip ෆයිල් එක සොයා ගත හැක.
+ඔබගෙ පරිඝනකයේ බාගත කිරීම් ( download files ) රදවා තබා ගැනීමට යොදා ගන්න ෆොල්ඩරය තුල ( download folder ) තුල ඔබ බා ගත කරගත් "Access-Grama-Niladhari V2.0" zip ෆයිල් එක සොයා ගත හැක.
 
 
-පසුව ඔබ බා ගත කරගත් "Access-Grama-Niladhari-1.2.zip" zip ෆයිල් එක දිස් වන්නෙ පහත අයුරිනි.එය රයිට් ක්ලික් කර පසු එන පහත අතුරු මුහුනතේ පෙන්වා දී ඇති ආකරයේ menu එක තුල ඇති Extract All යන්න ක්ලික් කිරීමෙන් පසු එය දිගහැරගත යුත්තෙ ඔබේ පරිඝනකයේ කුමන ස්ථානයටද යන්න තේරීම සදහා පහත දෙවනියට දක්වා ඇති ආකාරයේ අතුරුමුහුනතක් දිස්වේ.
+පසුව ඔබ බා ගත කරගත් "Access-Grama-Niladhari V2.0.zip" zip ෆයිල් එක දිස් වන්නෙ පහත අයුරිනි.එය රයිට් ක්ලික් කර පසු එන පහත අතුරු මුහුනතේ පෙන්වා දී ඇති ආකරයේ menu එක තුල ඇති Extract All යන්න ක්ලික් කිරීමෙන් පසු එය දිගහැරගත යුත්තෙ ඔබේ පරිඝනකයේ කුමන ස්ථානයටද යන්න තේරීම සදහා පහත දෙවනියට දක්වා ඇති ආකාරයේ අතුරුමුහුනතක් දිස්වේ.
 
 [![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
 [![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
@@ -80,7 +80,7 @@
  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/issues" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  අදහස් , යෝජනා වල පසු විපරම </a> 
 
 # Access கிராம உத்தியோகஸ்தர் – கிராம உத்தியோஸ்தர் அடிப்படைத் தகவல்களை முகாமைச்செய்யும் முறைமை - முதலாம் அலகு
-<p>Ver - 1</p>
+<p>Ver - 2.0</p>
 <p>இத்தகவல் முகாமைத்துவ தொகுதியினூடக கிராம உத்தியோகஸ்தர்களுக்கு தங்களது பிரதேசத்தில்</p>
 
 <ul style="margin-left:40px">
@@ -112,10 +112,10 @@
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
-அதனை அழுத்தியதன் பிற்பாடு பின்வரும் இடைமுகப்பில் காட்டப்பட்டுள்ளவாறாக download zip என்பதனை அழுத்துவதனூடாக தங்களது கணணியில் பதிவிறக்கம் செய்து கொள்ளலாம். உங்களது கணணியில் பதிவிறக்க கோவைகளை ( download files )  பேணுவதற்காக பயன்படுத்தப்படும் போல்டரினுள் ( download folder ) நீங்கள் பதிவிறக்கம் செய்த “Access-Grama-Niladhari-main” zip கோவையினை தேடிக்கொள்ள முடியும்
+அதனை அழுத்தியதன் பிற்பாடு பின்வரும் இடைமுகப்பில் காட்டப்பட்டுள்ளவாறாக download zip என்பதனை அழுத்துவதனூடாக தங்களது கணணியில் பதிவிறக்கம் செய்து கொள்ளலாம். உங்களது கணணியில் பதிவிறக்க கோவைகளை ( download files )  பேணுவதற்காக பயன்படுத்தப்படும் போல்டரினுள் ( download folder ) நீங்கள் பதிவிறக்கம் செய்த Access-Grama-Niladhari V2.0” zip கோவையினை தேடிக்கொள்ள முடியும்
 
 
- பின்னர் நீங்கள் பதிவிறக்கம் செய்த “Access-Grama-Niladhari-main” zip கோப்பினை பின்வருமாறு காணக்கூடியதாக இருக்கும். அதனை ரைட் கிளிக் செய்ததன் பிற்பாடு,  வரும் இடைமுகப்பில் காட்டப்பட்டுள்ளவாறு menu இனுள் காணப்படும் Extract All என்பதனை கிளிக் செய்ததன் பின்னர் அதனை உங்களது கணணியில் எந்த இடத்தில் திறந்துகொள்ள வேண்டும்  என்பதனை தெரிவு செய்வதற்காக கீழே இரண்டாவதாக காட்டப்பட்டுள்ளவாறு இடைமுகப்பொன்று தோன்றும்
+ பின்னர் நீங்கள் பதிவிறக்கம் செய்த “Access-Grama-Niladhari V2.0” zip கோப்பினை பின்வருமாறு காணக்கூடியதாக இருக்கும். அதனை ரைட் கிளிக் செய்ததன் பிற்பாடு,  வரும் இடைமுகப்பில் காட்டப்பட்டுள்ளவாறு menu இனுள் காணப்படும் Extract All என்பதனை கிளிக் செய்ததன் பின்னர் அதனை உங்களது கணணியில் எந்த இடத்தில் திறந்துகொள்ள வேண்டும்  என்பதனை தெரிவு செய்வதற்காக கீழே இரண்டாவதாக காட்டப்பட்டுள்ளவாறு இடைமுகப்பொன்று தோன்றும்
 
 [![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
 [![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
@@ -160,7 +160,7 @@
 
 # Access Grama Niladhari - Grama Niladhari Information Management System- Version 01
 
-<p>Ver - 1</p>
+<p>Ver - 2.0</p>
 <p>Tested Operating systems - Windows 10 </p>
 </p>Tested Office Packages - Microsoft Office 2013 </p>
 
@@ -197,7 +197,7 @@ After files got downloaded as indicated below, unzip the zip file. In order to d
 [![install_extract](https://genotechies.github.io/Access-Grama-Niladhari/install_extract.jpg)]
 [![install_extract_location](https://genotechies.github.io/Access-Grama-Niladhari/install_extract_location.jpg)]
 
-Finally, Navigate to "Access-Grama-Niladhari-main" folder  and you will see the relevent files as indicated below.
+Finally, Navigate to "Access-Grama-Niladhari V2.0" folder  and you will see the relevent files as indicated below.
 
 
 [![install_downloded_unzipped_files](https://genotechies.github.io/Access-Grama-Niladhari/install_downloded_unzipped_files.JPG)]
