@@ -29,7 +29,7 @@
 පහත දැක්වෙන අයුරින් ස්ථාපනය තුලින් ඔබට පරිශීලක සහය අන්තර්ජාල  නොමැතිව කියවිය හැක.  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/blob/main/LICENSE" target="_blank" ><u><span style="font-size:20px"><strong></strong></span></u>  පරිශීලක බලපත්‍ර ගිවිසුම </a> 
 
 
-මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/v1.2" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි Source code (zip) click කරන්න.
+මෙය ඔබගේ පරිඝනකය තුල ස්ථාපනය කිරීම සදහා පලමුවෙන්ම ඔබ කල යුත්තෙ Github වෙබ් අඩවිය තුලින් මේ හා සබැදිව ඇති ලින්ක් එක යොදා ගනිමින් මෙය බාගතකර ගැනීමයි  <a href="https://github.com/GenoTechies/Access-Grama-Niladhari/releases/tag/v2.0" target="_blank"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a>.  පිවිසීමෙන් පසු පහත අතුරු මුහුනතෙන් පෙන්වා දී ඇති පරදි Source code (zip) click කරන්න.
 
 [![install_download_location](https://genotechies.github.io/Access-Grama-Niladhari/install_download_location.jpg)]
 
