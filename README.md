@@ -7,8 +7,8 @@
 
 <p><span style="font-size:20px">මෙම ඇක්සස් පදනම් දත්ත ගබඩාව ඉතා සරලව ග්&zwj;රාම නිලධාරී මහතුන්ගේ මූලික තොරතුරු කළමනාකරණය සඳහා නිර්මාණය කර ඇත.</span></p>
 
-<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="https://genotechies.github.io/Access-Grama-Niladhari/user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<p>පද්ධති සහය (System Documentation) සඳහා  <a href="https://genotechies.github.io/Access-Grama-Niladhari/system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="https://dataakamutu.github.io/Access-Grama-Niladhari/user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පද්ධති සහය (System Documentation) සඳහා  <a href="https://dataakamutu.github.io/Access-Grama-Niladhari/system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 
 
 
@@ -24,8 +24,8 @@ Select the prefered version and open it using the MS Office Access application.
 
 This database is created by GenoTechies to create simple, lightweight, easy to use and easy to learn solution for Grama Niladhari in Sri Lanka.
 
-<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="https://genotechies.github.io/Access-Grama-Niladhari/user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
-<p>පද්ධති සහය (System Documentation) සඳහා  <a href="https://genotechies.github.io/Access-Grama-Niladhari/system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පරිශීලක සහය (User Documentation)සඳහා  <a href="https://dataakamutu.github.io/Access-Grama-Niladhari/user_documentation.html"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
+<p>පද්ධති සහය (System Documentation) සඳහා  <a href="https://dataakamutu.github.io/Access-Grama-Niladhari/system_documentation.htm"><u><span style="font-size:20px"><strong></strong></span></u>පිවිසීම </a></p>
 
 
 
